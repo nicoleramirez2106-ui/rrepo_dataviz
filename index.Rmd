@@ -1,0 +1,11 @@
+---
+title: "Metodos Estadisticos"
+author: "Tu Nombre"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+---
+
+# Prefacio {-}
+
+Este es el libro de Metodos Estadisticos.
